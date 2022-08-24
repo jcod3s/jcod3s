@@ -1,5 +1,5 @@
-### Hi there 👋
-<a src="https://github.com/jcod3s/jcod3s/blob/03d6ede9c7acd9b059a761c15814040635741b98/IMG_3993.JPG">
+![J Perez](https://github.com/jcod3s/jcod3s/blob/03d6ede9c7acd9b059a761c15814040635741b98/IMG_3993.JPG)
+
 Well that was easy
 <!--
 **jcod3s/jcod3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
