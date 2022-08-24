@@ -1,4 +1,4 @@
-![J Perez](https://github.com/jcod3s/jcod3s/blob/03d6ede9c7acd9b059a761c15814040635741b98/IMG_3993.JPG)
+![J Perez]
 
 Well that was easy
 <!--
