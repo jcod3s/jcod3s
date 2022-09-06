@@ -15,7 +15,7 @@ Dedicated to pushing the limits and re-thinking how tech is used to EMPOWER peop
 
 <table bordercolor="#ff69b4">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" halign="left">
       <h3 align="center">insect DB</h3>
         <br />
         <a target="_blank" href="https://knosyn.com">
@@ -26,7 +26,7 @@ Dedicated to pushing the limits and re-thinking how tech is used to EMPOWER peop
         <p><strong>Javascript, HTML, CSS</strong> - An overview of what I'm working on these days!</p>
         
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" halign="right">
       <h3 align="center">Trofeo Motorsports</h3>
         <br />
       <a target="_blank" href="https://trofeomotorsports.netlify.app/">
