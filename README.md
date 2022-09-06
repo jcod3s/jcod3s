@@ -21,10 +21,7 @@ Dedicated to pushing the limits and re-thinking how tech is used to EMPOWER peop
         <a target="_blank" href="https://knosyn.com">
             <img src="https://github.com/jcod3s/jcod3s/blob/main/knoSynVid.gif" width="100%" alt="knoSyn protfolio"/>
         </a>
-        <br />
-   
-        <p><strong>Javascript, HTML, CSS</strong> - An overview of what I'm working on these days!</p>
-        
+        <br />     
     </td>
   </tr>
 </table>
