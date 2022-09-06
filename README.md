@@ -16,7 +16,7 @@ Dedicated to pushing the limits and re-thinking how tech is used to EMPOWER peop
 <table bordercolor="#ff69b4">
   <tr>
     <td width="50%" halign="left">
-      <h3 align="center">insect DB</h3>
+      <h3 align="center">Portfolio Site</h3>
         <br />
         <a target="_blank" href="https://knosyn.com">
             <img src="https://github.com/jcod3s/jcod3s/blob/main/knoSynVid.gif" width="100%" alt="knoSyn protfolio"/>
